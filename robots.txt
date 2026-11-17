@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sixboxpack.com/sitemap.xml
